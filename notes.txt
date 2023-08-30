@@ -1,0 +1,17 @@
+free accounts may not count as payable streams
+
+ίσως για κάθε account θέλει άλλη συσκευή-IPaddress
+ΙΣΩΣ κάθε network card με μοναδική IP θεωρείται ξεχωριστή συσκευή.
+Σίγουρα ένα computer με 2 network cards μπορεί να έχει 2 IP adresses (https://www.geeksforgeeks.org/how-many-ip-addresses-a-computer-can-have/#:~:text=How%20many%20IP%20addresses%20can,assigning%20a%20second%20IP%20address.)
+Άρα αν ένα process ή thread του προγράμματος μου μπορεί να χρησιμοποιήσει συγκεκριμένο network interface τότε
+κάθε proccess μπορεί να αντιμετωπίζεται από το Spotify ως ξεχωριστή συσκευή.
+LYSI ---> https://stackoverflow.com/questions/8437726/can-python-select-what-network-adapter-when-opening-a-socket
+
+
+πρέπει να βρούμε τρόπο να κάνουμε verify ότι όντως μετράνε streams
+1. για 1 free account
+2. για N free accounts
+3. για 1 premium account
+4. για N premium accounts
+
+πόσα resources τρώει με headless και χωρίς
